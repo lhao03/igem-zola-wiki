@@ -1,0 +1,30 @@
+@font-face {
+  font-family: SubNeue;
+  src: url(https://static.igem.wiki/teams/4796/wiki/sebneueregular.otf);
+}
+
+body {
+  overflow-x: hidden;
+  color: #e8e8e8;
+  font-family: SubNeue;
+  background: #272727;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+table,
+th,
+td {
+  border: 3px solid;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td,
+th {
+  padding: 5px;
+}
